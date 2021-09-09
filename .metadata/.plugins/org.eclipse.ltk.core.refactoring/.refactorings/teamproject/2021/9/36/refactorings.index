@@ -1,0 +1,6 @@
+1631168845719	Rename package 'com.t3.musicchart'
+1631168876389	Rename package 'controller'
+1631168895615	Copy package
+1631170514706	Move 'log4j.xml' to 'resources'
+1631170529902	Move 'log4jdbc.log4j2.properties' to 'mapper'
+1631170538375	Move 'log4jdbc.log4j2.properties' to 'resources'
